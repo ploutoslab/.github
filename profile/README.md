@@ -7,7 +7,8 @@
 `research` → `backtest` → `paper` → `live` → `monitor`
 
 ![Focus](https://img.shields.io/badge/focus-algorithmic%20trading-0b3d2e?style=flat-square)
-![Python](https://img.shields.io/badge/python-3.11+-1f6feb?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Status](https://img.shields.io/badge/status-active-2ea043?style=flat-square)
 
 </div>
@@ -38,7 +39,7 @@ don't silently gap, backtests that don't lie, and execution that fails safe.
 
 ## Stack
 
-`Python` · `PostgreSQL / TimescaleDB` · `Docker` · `Grafana` · exchange REST + WebSocket APIs
+`Go` · `Rust` · `PostgreSQL / TimescaleDB` · `Docker` · `Grafana` · exchange REST + WebSocket APIs
 
 ---
 
