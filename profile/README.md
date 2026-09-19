@@ -44,5 +44,7 @@ don't silently gap, backtests that don't lie, and execution that fails safe.
 ---
 
 <div align="center">
+<sub>Most repositories are private while under active development.</sub>
+<br>
 <sub>Research and engineering only — nothing published here is financial advice.</sub>
 </div>
